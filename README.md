@@ -53,6 +53,8 @@ A Gis Specialist with 4+ years of experience. Familiar with spatial data creatio
 
 5. Presents data on maps that represent the performance of spatial planning in each province of Kalimantan and Sulawesi-2019. (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/WASTEK_Kalimantan.jpg)
 
+6. Correcting topology spatial plans data in Papua Districts for input public webgis known as [GISTARU](https://gistaru.atrbpn.go.id/rtronline/) (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/Rencana%20Tata%20Ruang_Papua.jpg)
+
 ### Fire up Lerning Open-source Projects
 
 - **Python packages:** [geemap](https://github.com/giswqs/geemap) | [leafmap](https://github.com/giswqs/leafmap)
