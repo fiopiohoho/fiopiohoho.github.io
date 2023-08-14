@@ -48,7 +48,8 @@ A Gis Specialist with 4+ years of experience. Familiar with spatial data creatio
 
 3.
 
-4.
+4. Study the potential for the new development areas based on toll road infrastructure in Sumatra-2019
+   (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/Sandingan_tol_sumut.jpg)
 
 5. Presents data on maps that represent the performance of spatial planning in each province of Kalimantan and Sulawesi-2019. (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/WASTEK_Kalimantan.jpg)
 
