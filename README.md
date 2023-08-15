@@ -46,14 +46,19 @@ A Gis Specialist with 4+ years of experience. Familiar with spatial data creatio
    for the detail, [visit https://ditjenpptr.atrbpn.go.id/sihero/](https://ditjenpptr.atrbpn.go.id/sihero/)![](Porto_Images/Sihero_Puncak.jpg) (image of planting bamboo on the banks of the river)
    ![](Porto_Images/Sihero_Puncak_Sures.jpg) (image location construction of infiltration wells in Batulayang Village)
 
-3.
+3. Map of Flood Frequency Analysis in Kalideres-2020
+   (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)
+   ![](Porto_Images/Peta_Kalideres.jpg)
 
 4. Study the potential for the new development areas based on toll road infrastructure in Sumatra-2019
    (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/Sandingan_tol_sumut.jpg)
 
 5. Presents data on maps that represent the performance of spatial planning in each province of Kalimantan and Sulawesi-2019. (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/WASTEK_Kalimantan.jpg)
 
-6. Correcting topology spatial plans data in Papua Districts for input public webgis known as [GISTARU](https://gistaru.atrbpn.go.id/rtronline/) (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/Rencana%20Tata%20Ruang_Papua.jpg)
+6. Correcting topology spatial plan data in Papua Districts for input public webgis known as [GISTARU](https://gistaru.atrbpn.go.id/rtronline/) (Ministry of Agrarian Affairs and Spatial Plan/National Land Agency)![](Porto_Images/Rencana%20Tata%20Ruang_Papua.jpg)
+
+7. Mapping and studying flood evacuation locations in several districts in Jakarta-2015
+   (Badan Penanggulangan Bencana Daerah Provinsi DKI Jakarta)![](Porto_Images/Peta_Lokasi_evakuasi_Banjir_Jakarta.jpg)
 
 ### Fire up Lerning Open-source Projects
 
