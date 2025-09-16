@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)]()
 
-A Gis Specialist with 4+ years of experience. Familiar with spatial data creation for map such as landuse planning, terrain mapping, forest monitoring, dissaster mapping, and spatial planning zone. Proven to assisted director general for made decision about actions to save “Kawasan Puncak Bogor” and many more. fire up in learning software development for geospatial analysist like various python packages and Google earth engine
+GIS Specialist with 9+ years of experience in spatial data management, geospatial analysis and mapping for spatial planning, land-use enforcement, flood risk assessment, and infrastructure development across various regions in Indonesia. Skilled in compiling and validating RTRW data, mapping Lahan Sawah Dilindungi (LSD), conducting aerial imagery processing, and performing technical and legal studies on spatial-use violations. Proficient in ArcGIS, ArcGIS Pro, QGIS, Agisoft, Google Earth Engine, and spatial databases, with strong ability to transform complex geospatial data into actionable insights, thematic maps, and reports that support policymaking, legal enforcement, and sustainable land management.
 
 <!-- **fiopiohoho/fiopiohoho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -21,8 +21,8 @@ A Gis Specialist with 4+ years of experience. Familiar with spatial data creatio
 
 ## Employement
 
-- [Staff GIS Ministry of Agrarian Affairs and Spatial Planning (Directorat General of Spatial Development Control)](https://tataruang.atrbpn.go.id/)
 - [Staff GIS Ministry of Agrarian Affairs and Spatial Planning (Directorat General of Spatial Planning)](https://ditjenpptr.atrbpn.go.id/pengendalian/)
+- [Staff GIS Ministry of Agrarian Affairs and Spatial Planning (Directorat General of Spatial Development Control)](https://tataruang.atrbpn.go.id/)
 - [Staff GIS BPBD DKI Jakarta](https://bpbd.jakarta.go.id/)
 
 ## Profesional Skills
