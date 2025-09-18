@@ -43,7 +43,7 @@ I am also passionate about **learning Python** to automate workflows, perform ad
 
 ---
 
-### 1. **Analysis of Illegal Housing Development in Protected Forest – Batam (2022-2023)**  
+### 1. **Analysis of Illegal Housing Development in Protected Forest – Batam**  
 Geospatial analysis to detect land-use changes in protected forest areas used for housing development.
 
 **Tools:** ArcGIS, Remote Sensing, Spatial Overlay Analysis  
@@ -54,7 +54,7 @@ Geospatial analysis to detect land-use changes in protected forest areas used fo
 
 ---
 
-### 2. **Restoration Planning – Puncak, Bogor (2020–2021)**  
+### 2. **Restoration Planning – Puncak, Bogor**  
 Mapped and built a structured spatial database for planting areas and infiltration wells to restore critical upstream zones misused for illegal development.  
 
 **Tools:** ArcGIS, Geodatabase Design, GPS Field Data Collection  
@@ -67,7 +67,7 @@ Mapped and built a structured spatial database for planting areas and infiltrati
 
 ---
 
-### 3. **Flood Frequency Analysis – Kalideres, Jakarta (2020)**  
+### 3. **Flood Frequency Analysis – Kalideres, Jakarta**  
 Produced flood frequency maps to support flood risk reduction measures and evacuation route planning.  
 
 **Tools:** ArcGIS, Hydrological Analysis, Python (learning)  
@@ -78,7 +78,7 @@ Produced flood frequency maps to support flood risk reduction measures and evacu
 
 ---
 
-### 4. **Potential Development Study – Toll Road Corridors in Sumatra (2019)**  
+### 4. **Potential Development Study – Toll Road Corridors in Sumatra**  
 Analyzed and mapped potential industrial and urban development areas along the Trans-Sumatra Toll Road.  
 
 **Tools:** ArcGIS, Buffer & Overlay Analysis, Spatial Statistics  
@@ -89,7 +89,7 @@ Analyzed and mapped potential industrial and urban development areas along the T
 
 ---
 
-### 5. **Spatial Plan Performance Mapping – Kalimantan & Sulawesi (2019)**  
+### 5. **Spatial Plan Performance Mapping – Kalimantan & Sulawesi**  
 Transformed tabular monitoring data of spatial plan performance into geospatial layers and produced thematic maps to visualize compliance levels across provinces.  
 
 **Tools:** ArcGIS, Geodatabase, Spatial Join, Symbolization  
@@ -100,7 +100,7 @@ Transformed tabular monitoring data of spatial plan performance into geospatial 
 
 ---
 
-### 6. **Spatial Plan Topology Correction – Papua (2016)**  
+### 6. **Spatial Plan Topology Correction – Papua**  
 Corrected and standardized spatial plan topology data for Papua Districts as input for the national GISTARU WebGIS platform.  
 
 **Tools:** ArcGIS, Topology Checker, Geodatabase Editing  
@@ -111,7 +111,7 @@ Corrected and standardized spatial plan topology data for Papua Districts as inp
 
 ---
 
-### 7. **Flood Evacuation Site Mapping – Jakarta (2015)**  
+### 7. **Flood Evacuation Site Mapping – Jakarta**  
 Conducted field survey and mapped flood evacuation sites across multiple districts in Jakarta to support disaster preparedness.  
 
 **Tools:** ArcGIS, GPS Survey, Field Verification  
